@@ -19,6 +19,7 @@ I'm a web backend developer, I also do sysadmin.
 <br/>
 
 ## Languages and stats
+![](https://komarev.com/ghpvc/?username=EvannG1&color=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanng1&show_icoons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evanng1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
