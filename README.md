@@ -6,7 +6,7 @@ I'm a web backend developer, I also do sysadmin.
 - 🚀 President of nonprofit organization [eZCorporation](https://ezcorp.io/)
 
 ## Connect with me
-<a href="https://twitter.com/EliottRBT">
+<a href="https://twitter.com/G1Evann">
     <img alt="EvannG1 | Twitter" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/EvannG1/EvannG1/main/twitter.svg" />
   </a>
 <a href="https://git.ezcorp.io/evann.gehin">
