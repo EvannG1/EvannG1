@@ -2,7 +2,7 @@
 I'm a web backend developer, I also do sysadmin.
 
 ## Find me on the web 🌍
-- 🚧 Personal website (soon)
+- 🌐 [Personal website](https://evanng1.fr)
 - 🚀 President of nonprofit organization [eZCorporation](https://ezcorp.io/)
 
 ## Connect with me
