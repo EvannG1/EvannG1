@@ -10,8 +10,8 @@ I'm currently working as a Linux System Administrator in Cloud Gaming company.
 <a href="https://twitter.com/G1Evann">
     <img alt="EvannG1 | Twitter" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/EvannG1/EvannG1/main/twitter.svg" />
   </a>
-<a href="https://github.com/EvannG1">
-  <img alt="EvannG1 | GitHub" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<a href="https://gitlab.ezcorp.io/evann">
+  <img alt="EvannG1 | GitLab" align="left" width="30px" style="margin-right:15px" src="https://raw.githubusercontent.com/EvannG1/EvannG1/main/gitlab.svg" />
 </a>
 
 <br/>
